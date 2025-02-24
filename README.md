@@ -63,10 +63,4 @@ To run the notebooks, you need to have Jupyter installed along with the required
 pip install -r requirements.txt
 ```
 
-## Contributing
 
-Feel free to contribute to this repository by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
